@@ -1,2 +1,2 @@
-# Wallet_Project
+# Payments_Wallet
 
